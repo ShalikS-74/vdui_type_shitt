@@ -1,0 +1,6 @@
+metric,value
+grouped_precision,0.1143
+grouped_recall,0.6667
+grouped_pr_auc,0.1338
+positive_cases,6.0
+rows,98.0

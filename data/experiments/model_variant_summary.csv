@@ -1,0 +1,5 @@
+variant,rows,positive_cases,pr_auc,warnings_at_0.5,real_cases_caught_at_0.5,false_warnings_at_0.5,warnings_at_0.7,real_cases_caught_at_0.7,false_warnings_at_0.7
+full_inputs_fixed_c1,98,6,0.1113365709932558,30,3,27,16,2,14
+full_inputs_tuned,98,6,0.13022024354891096,38,4,34,8,1,7
+seven_inputs_fixed_c1,98,6,0.1027162123350871,32,3,29,18,2,16
+seven_inputs_tuned,98,6,0.10876670320787261,33,3,30,9,1,8

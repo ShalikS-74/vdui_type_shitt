@@ -1,0 +1,393 @@
+polity,century,contraction,p,variant,selected_c_summary
+Big Island Hawaii::Hawaii2,1200,0,0.00015632673972498846,full_inputs_fixed_c1,1.0
+Big Island Hawaii::Hawaii2,1300,0,1.2526444216136855e-05,full_inputs_fixed_c1,1.0
+Big Island Hawaii::Hawaii2,1400,0,2.469704413461209e-05,full_inputs_fixed_c1,1.0
+Big Island Hawaii::Hawaii2,1500,0,1.4867818243312004e-05,full_inputs_fixed_c1,1.0
+Cambodian Basin::KhAngkC,1100,0,0.5030982575828065,full_inputs_fixed_c1,1.0
+Cambodian Basin::KhAngkE,900,0,0.4752490776519802,full_inputs_fixed_c1,1.0
+Cambodian Basin::KhAngkL,1300,0,0.46680645156910805,full_inputs_fixed_c1,1.0
+Central Java::IdKedir,1100,0,0.07847412107184767,full_inputs_fixed_c1,1.0
+Central Java::IdMedng,800,0,0.10783949525511587,full_inputs_fixed_c1,1.0
+Crete::TrByzM3,1100,0,0.8652271334009103,full_inputs_fixed_c1,1.0
+Cuzco::PeInca*,1400,0,0.04175396921495736,full_inputs_fixed_c1,1.0
+Deccan::InSataL,-100,0,0.43277798469805234,full_inputs_fixed_c1,1.0
+Deccan::InSataL,0,0,0.44133636547470795,full_inputs_fixed_c1,1.0
+Deccan::InSataL,100,0,0.4448943870117093,full_inputs_fixed_c1,1.0
+Deccan::InVijay,1400,0,0.3842684101608789,full_inputs_fixed_c1,1.0
+Finger Lakes::UsIroqE,1600,0,0.0011391813589064987,full_inputs_fixed_c1,1.0
+Galilee::IlYisrl,-1000,0,0.14541800074395336,full_inputs_fixed_c1,1.0
+Galilee::IlYisrl,-900,0,0.001113559501953656,full_inputs_fixed_c1,1.0
+Iceland::IsCommw,1000,0,0.008743942545982587,full_inputs_fixed_c1,1.0
+Iceland::IsCommw,1100,0,0.00021340732086081113,full_inputs_fixed_c1,1.0
+Kachi Plain::PkSind1,900,0,0.1317848717163686,full_inputs_fixed_c1,1.0
+Kachi Plain::PkSind2,1400,0,0.10519128438237188,full_inputs_fixed_c1,1.0
+Kansai::JpAsuka,600,0,0.25857200223494853,full_inputs_fixed_c1,1.0
+Kansai::JpHeian,800,0,0.5492894345306929,full_inputs_fixed_c1,1.0
+Kansai::JpHeian,900,0,0.47696318689691536,full_inputs_fixed_c1,1.0
+Kansai::JpHeian,1000,0,0.6851199197109775,full_inputs_fixed_c1,1.0
+Kansai::JpKamak,1200,0,0.40080401191561266,full_inputs_fixed_c1,1.0
+Kansai::JpKofun,300,0,0.013436032387855104,full_inputs_fixed_c1,1.0
+Kansai::JpKofun,400,0,0.029797625949274573,full_inputs_fixed_c1,1.0
+Kansai::JpTokgw,1700,0,0.831596847842974,full_inputs_fixed_c1,1.0
+Konya Plain::TrBrzMD,-1800,0,0.02715151874489401,full_inputs_fixed_c1,1.0
+Konya Plain::TrByzM1,700,0,0.8419337241612477,full_inputs_fixed_c1,1.0
+Konya Plain::TrByzM2,900,0,0.8649755116223065,full_inputs_fixed_c1,1.0
+Konya Plain::TrERom*,400,0,0.8911548077681694,full_inputs_fixed_c1,1.0
+Konya Plain::TrERom*,500,0,0.6559586084262243,full_inputs_fixed_c1,1.0
+Konya Plain::TrHatNK,-1300,0,0.25997880646761723,full_inputs_fixed_c1,1.0
+Konya Plain::TrRum**,1100,0,0.6312319703510434,full_inputs_fixed_c1,1.0
+Latium::ItPapEM,1000,1,0.15443016454040245,full_inputs_fixed_c1,1.0
+Latium::ItPapHM,1200,0,0.5952349002574805,full_inputs_fixed_c1,1.0
+Latium::ItPapM2,1700,0,0.6359170374087743,full_inputs_fixed_c1,1.0
+Latium::ItPapRn,1400,0,0.5664541102306275,full_inputs_fixed_c1,1.0
+Latium::ItRav**,600,0,0.5270711098924068,full_inputs_fixed_c1,1.0
+Latium::ItRomER,-500,0,0.12966354898570887,full_inputs_fixed_c1,1.0
+Latium::ItRomER,-400,0,0.05447507106967545,full_inputs_fixed_c1,1.0
+Latium::ItRomPr,0,0,0.8769800633161873,full_inputs_fixed_c1,1.0
+Latium::ItRomPr,100,0,0.8237648112394805,full_inputs_fixed_c1,1.0
+Latium::ItRomRg,-700,0,0.013450615546462824,full_inputs_fixed_c1,1.0
+Latium::ItStPet,800,0,0.4337443239829586,full_inputs_fixed_c1,1.0
+Lowland Andes::EcJivaE,1600,0,0.00042963942978359516,full_inputs_fixed_c1,1.0
+Middle Ganga::InGurjr,900,0,0.11500894008811251,full_inputs_fixed_c1,1.0
+Middle Yellow River Valley::CnEHan*,100,1,0.7241405477276047,full_inputs_fixed_c1,1.0
+Middle Yellow River Valley::CnErlit,-1800,0,0.015346771391875307,full_inputs_fixed_c1,1.0
+Middle Yellow River Valley::CnMing*,1400,0,0.8745547846261705,full_inputs_fixed_c1,1.0
+Middle Yellow River Valley::CnMing*,1500,0,0.15102710269738914,full_inputs_fixed_c1,1.0
+Middle Yellow River Valley::CnNSong,1000,0,0.9507989585427601,full_inputs_fixed_c1,1.0
+Middle Yellow River Valley::CnNWei*,400,0,0.3846991298716441,full_inputs_fixed_c1,1.0
+Middle Yellow River Valley::CnQingL,1800,0,0.9548944850765281,full_inputs_fixed_c1,1.0
+Middle Yellow River Valley::CnTangL,800,0,0.8076450187520037,full_inputs_fixed_c1,1.0
+Middle Yellow River Valley::CnWHan*,-200,0,0.8239880998539652,full_inputs_fixed_c1,1.0
+Middle Yellow River Valley::CnWHan*,-100,0,0.8364610462492756,full_inputs_fixed_c1,1.0
+Middle Yellow River Valley::CnWZhou,-1000,0,0.4001071923056908,full_inputs_fixed_c1,1.0
+Niger Inland Delta::MlMali*,1300,0,0.3729462160713142,full_inputs_fixed_c1,1.0
+North Colombia::CoTairo,1100,0,0.004425840572114762,full_inputs_fixed_c1,1.0
+North Colombia::CoTairo,1400,0,0.004296345287903213,full_inputs_fixed_c1,1.0
+Orkhon Valley::MnMongL,1400,0,0.06871148377941766,full_inputs_fixed_c1,1.0
+Orkhon Valley::MnMongL,1500,0,0.06871148377941766,full_inputs_fixed_c1,1.0
+Orkhon Valley::MnXngnE,-1400,0,0.00045741701101213164,full_inputs_fixed_c1,1.0
+Orkhon Valley::MnXngnE,-500,0,0.00045741701101213164,full_inputs_fixed_c1,1.0
+Paris Basin::FrCaptE,1000,0,0.09481630466006181,full_inputs_fixed_c1,1.0
+Paris Basin::FrCaptL,1200,0,0.5805844186021943,full_inputs_fixed_c1,1.0
+Paris Basin::FrHallB,-900,0,0.007845087678628179,full_inputs_fixed_c1,1.0
+Paris Basin::FrTeneB,-300,0,0.05878532081156044,full_inputs_fixed_c1,1.0
+Sogdiana::AfKushn,100,0,0.3503282791581817,full_inputs_fixed_c1,1.0
+Sogdiana::UzJanid,1600,0,0.36335073087549924,full_inputs_fixed_c1,1.0
+Southern Mesopotamia::IqAbbs1,800,1,0.26937652634774784,full_inputs_fixed_c1,1.0
+Southern Mesopotamia::IqAkkad,-2300,0,0.48089993824620053,full_inputs_fixed_c1,1.0
+Southern Mesopotamia::IrPart2,100,0,0.4145113491934787,full_inputs_fixed_c1,1.0
+Susiana::IrAchae,-500,0,0.8600814175268218,full_inputs_fixed_c1,1.0
+Susiana::IrMElm2,-1400,0,0.0939556791500132,full_inputs_fixed_c1,1.0
+Susiana::IrPart1,-100,0,0.4351220563000432,full_inputs_fixed_c1,1.0
+Susiana::IrQajar,1800,0,0.48611598544046986,full_inputs_fixed_c1,1.0
+Susiana::IrSasn1,300,0,0.3659165473390888,full_inputs_fixed_c1,1.0
+Susiana::IrSasn2,500,0,0.5274661357696067,full_inputs_fixed_c1,1.0
+Susiana::IrSeleu,-300,1,0.18992949381904628,full_inputs_fixed_c1,1.0
+Upper Egypt::EgDyn2*,-2900,0,0.060220016088474444,full_inputs_fixed_c1,1.0
+Upper Egypt::EgDyn2*,-2800,0,0.06408198078349919,full_inputs_fixed_c1,1.0
+Upper Egypt::EgMidKg,-2000,0,0.3473728360223174,full_inputs_fixed_c1,1.0
+Upper Egypt::EgMidKg,-1900,0,0.36432779153256767,full_inputs_fixed_c1,1.0
+Upper Egypt::EgNKRam,-1200,0,0.45132491284367465,full_inputs_fixed_c1,1.0
+Upper Egypt::EgNKThu,-1500,0,0.5265302321714888,full_inputs_fixed_c1,1.0
+Upper Egypt::EgNKThu,-1400,0,0.546376264055644,full_inputs_fixed_c1,1.0
+Upper Egypt::EgNaqa1,-3800,0,0.00859321631934127,full_inputs_fixed_c1,1.0
+Upper Egypt::EgNaqa1,-3700,0,3.1750341028846216e-07,full_inputs_fixed_c1,1.0
+Upper Egypt::EgNaqa2,-3500,0,0.002216724417593959,full_inputs_fixed_c1,1.0
+Upper Egypt::EgPtol2,-200,1,0.6648067209592093,full_inputs_fixed_c1,1.0
+Upper Egypt::EgThebL,-1000,0,0.29278133613329976,full_inputs_fixed_c1,1.0
+Upper Egypt::TnFatim,1000,1,0.8428209267811811,full_inputs_fixed_c1,1.0
+Valley of Oaxaca::MxAlb1E,-500,0,0.0007476850512068874,full_inputs_fixed_c1,1.0
+Big Island Hawaii::Hawaii2,1200,0,0.00013168529377309335,seven_inputs_fixed_c1,1.0
+Big Island Hawaii::Hawaii2,1300,0,0.00014870964608363634,seven_inputs_fixed_c1,1.0
+Big Island Hawaii::Hawaii2,1400,0,0.00020840681895362465,seven_inputs_fixed_c1,1.0
+Big Island Hawaii::Hawaii2,1500,0,0.00023804379535829852,seven_inputs_fixed_c1,1.0
+Cambodian Basin::KhAngkC,1100,0,0.5167138356549905,seven_inputs_fixed_c1,1.0
+Cambodian Basin::KhAngkE,900,0,0.47350877830523896,seven_inputs_fixed_c1,1.0
+Cambodian Basin::KhAngkL,1300,0,0.45984402011487174,seven_inputs_fixed_c1,1.0
+Central Java::IdKedir,1100,0,0.07689879620653783,seven_inputs_fixed_c1,1.0
+Central Java::IdMedng,800,0,0.14380281726998081,seven_inputs_fixed_c1,1.0
+Crete::TrByzM3,1100,0,0.8525756434176599,seven_inputs_fixed_c1,1.0
+Cuzco::PeInca*,1400,0,0.04138158843798522,seven_inputs_fixed_c1,1.0
+Deccan::InSataL,-100,0,0.4341506767799878,seven_inputs_fixed_c1,1.0
+Deccan::InSataL,0,0,0.4358274003955693,seven_inputs_fixed_c1,1.0
+Deccan::InSataL,100,0,0.4358274003955693,seven_inputs_fixed_c1,1.0
+Deccan::InVijay,1400,0,0.3843891432800836,seven_inputs_fixed_c1,1.0
+Finger Lakes::UsIroqE,1600,0,0.0009346686948687585,seven_inputs_fixed_c1,1.0
+Galilee::IlYisrl,-1000,0,0.1459409190219783,seven_inputs_fixed_c1,1.0
+Galilee::IlYisrl,-900,0,0.18027588165315034,seven_inputs_fixed_c1,1.0
+Iceland::IsCommw,1000,0,0.0060802517059735895,seven_inputs_fixed_c1,1.0
+Iceland::IsCommw,1100,0,0.009486422487749764,seven_inputs_fixed_c1,1.0
+Kachi Plain::PkSind1,900,0,0.14038573333821888,seven_inputs_fixed_c1,1.0
+Kachi Plain::PkSind2,1400,0,0.10883712268101664,seven_inputs_fixed_c1,1.0
+Kansai::JpAsuka,600,0,0.26406210970137645,seven_inputs_fixed_c1,1.0
+Kansai::JpHeian,800,0,0.5336852181233254,seven_inputs_fixed_c1,1.0
+Kansai::JpHeian,900,0,0.546027811340259,seven_inputs_fixed_c1,1.0
+Kansai::JpHeian,1000,0,0.548506034749776,seven_inputs_fixed_c1,1.0
+Kansai::JpKamak,1200,0,0.4079760242834684,seven_inputs_fixed_c1,1.0
+Kansai::JpKofun,300,0,0.013610532475026728,seven_inputs_fixed_c1,1.0
+Kansai::JpKofun,400,0,0.0344430651213722,seven_inputs_fixed_c1,1.0
+Kansai::JpTokgw,1700,0,0.8187906705869001,seven_inputs_fixed_c1,1.0
+Konya Plain::TrBrzMD,-1800,0,0.0317137734459865,seven_inputs_fixed_c1,1.0
+Konya Plain::TrByzM1,700,0,0.8286986103875398,seven_inputs_fixed_c1,1.0
+Konya Plain::TrByzM2,900,0,0.8528411673080909,seven_inputs_fixed_c1,1.0
+Konya Plain::TrERom*,400,0,0.8857784569027312,seven_inputs_fixed_c1,1.0
+Konya Plain::TrERom*,500,0,0.8804008869047382,seven_inputs_fixed_c1,1.0
+Konya Plain::TrHatNK,-1300,0,0.26946665628950656,seven_inputs_fixed_c1,1.0
+Konya Plain::TrRum**,1100,0,0.6444295833799618,seven_inputs_fixed_c1,1.0
+Latium::ItPapEM,1000,1,0.1585387862499714,seven_inputs_fixed_c1,1.0
+Latium::ItPapHM,1200,0,0.5838311008643591,seven_inputs_fixed_c1,1.0
+Latium::ItPapM2,1700,0,0.626504770811014,seven_inputs_fixed_c1,1.0
+Latium::ItPapRn,1400,0,0.5596509257139604,seven_inputs_fixed_c1,1.0
+Latium::ItRav**,600,0,0.5159009132073122,seven_inputs_fixed_c1,1.0
+Latium::ItRomER,-500,0,0.12940944126042386,seven_inputs_fixed_c1,1.0
+Latium::ItRomER,-400,0,0.1493310794816466,seven_inputs_fixed_c1,1.0
+Latium::ItRomPr,0,0,0.8560505580376055,seven_inputs_fixed_c1,1.0
+Latium::ItRomPr,100,0,0.856245125961877,seven_inputs_fixed_c1,1.0
+Latium::ItRomRg,-700,0,0.013891625053733658,seven_inputs_fixed_c1,1.0
+Latium::ItStPet,800,0,0.4178108840825008,seven_inputs_fixed_c1,1.0
+Lowland Andes::EcJivaE,1600,0,0.0003636834939484757,seven_inputs_fixed_c1,1.0
+Middle Ganga::InGurjr,900,0,0.1059500238567366,seven_inputs_fixed_c1,1.0
+Middle Yellow River Valley::CnEHan*,100,1,0.7101662439382059,seven_inputs_fixed_c1,1.0
+Middle Yellow River Valley::CnErlit,-1800,0,0.015534423390465712,seven_inputs_fixed_c1,1.0
+Middle Yellow River Valley::CnMing*,1400,0,0.8731188394231676,seven_inputs_fixed_c1,1.0
+Middle Yellow River Valley::CnMing*,1500,0,0.8156926010186953,seven_inputs_fixed_c1,1.0
+Middle Yellow River Valley::CnNSong,1000,0,0.943027991638225,seven_inputs_fixed_c1,1.0
+Middle Yellow River Valley::CnNWei*,400,0,0.36794884078781315,seven_inputs_fixed_c1,1.0
+Middle Yellow River Valley::CnQingL,1800,0,0.9461205416054885,seven_inputs_fixed_c1,1.0
+Middle Yellow River Valley::CnTangL,800,0,0.8022930135086788,seven_inputs_fixed_c1,1.0
+Middle Yellow River Valley::CnWHan*,-200,0,0.8057563918106638,seven_inputs_fixed_c1,1.0
+Middle Yellow River Valley::CnWHan*,-100,0,0.8057563918106638,seven_inputs_fixed_c1,1.0
+Middle Yellow River Valley::CnWZhou,-1000,0,0.4158241412473807,seven_inputs_fixed_c1,1.0
+Niger Inland Delta::MlMali*,1300,0,0.38402324763783835,seven_inputs_fixed_c1,1.0
+North Colombia::CoTairo,1100,0,0.005680091775267421,seven_inputs_fixed_c1,1.0
+North Colombia::CoTairo,1400,0,0.0051805939408526925,seven_inputs_fixed_c1,1.0
+Orkhon Valley::MnMongL,1400,0,0.06691565792695627,seven_inputs_fixed_c1,1.0
+Orkhon Valley::MnMongL,1500,0,0.06691565792695627,seven_inputs_fixed_c1,1.0
+Orkhon Valley::MnXngnE,-1400,0,0.00037359744256923753,seven_inputs_fixed_c1,1.0
+Orkhon Valley::MnXngnE,-500,0,0.00037359744256923753,seven_inputs_fixed_c1,1.0
+Paris Basin::FrCaptE,1000,0,0.09206658098974894,seven_inputs_fixed_c1,1.0
+Paris Basin::FrCaptL,1200,0,0.5898091318703974,seven_inputs_fixed_c1,1.0
+Paris Basin::FrHallB,-900,0,0.009591906369487374,seven_inputs_fixed_c1,1.0
+Paris Basin::FrTeneB,-300,0,0.059905561579514946,seven_inputs_fixed_c1,1.0
+Sogdiana::AfKushn,100,0,0.33862019227954127,seven_inputs_fixed_c1,1.0
+Sogdiana::UzJanid,1600,0,0.3488237923272142,seven_inputs_fixed_c1,1.0
+Southern Mesopotamia::IqAbbs1,800,1,0.2567079957797266,seven_inputs_fixed_c1,1.0
+Southern Mesopotamia::IqAkkad,-2300,0,0.5072197279778131,seven_inputs_fixed_c1,1.0
+Southern Mesopotamia::IrPart2,100,0,0.39982067943245064,seven_inputs_fixed_c1,1.0
+Susiana::IrAchae,-500,0,0.855297408746002,seven_inputs_fixed_c1,1.0
+Susiana::IrMElm2,-1400,0,0.10738754420615851,seven_inputs_fixed_c1,1.0
+Susiana::IrPart1,-100,0,0.4207352477353531,seven_inputs_fixed_c1,1.0
+Susiana::IrQajar,1800,0,0.49306887381674863,seven_inputs_fixed_c1,1.0
+Susiana::IrSasn1,300,0,0.33935381683729854,seven_inputs_fixed_c1,1.0
+Susiana::IrSasn2,500,0,0.4981081019901058,seven_inputs_fixed_c1,1.0
+Susiana::IrSeleu,-300,1,0.18653084260892286,seven_inputs_fixed_c1,1.0
+Upper Egypt::EgDyn2*,-2900,0,0.059301874268594484,seven_inputs_fixed_c1,1.0
+Upper Egypt::EgDyn2*,-2800,0,0.059301874268594484,seven_inputs_fixed_c1,1.0
+Upper Egypt::EgMidKg,-2000,0,0.3463155300622457,seven_inputs_fixed_c1,1.0
+Upper Egypt::EgMidKg,-1900,0,0.3463155300622457,seven_inputs_fixed_c1,1.0
+Upper Egypt::EgNKRam,-1200,0,0.4565647683070228,seven_inputs_fixed_c1,1.0
+Upper Egypt::EgNKThu,-1500,0,0.5197988166710937,seven_inputs_fixed_c1,1.0
+Upper Egypt::EgNKThu,-1400,0,0.5197988166710937,seven_inputs_fixed_c1,1.0
+Upper Egypt::EgNaqa1,-3800,0,0.00801964654797669,seven_inputs_fixed_c1,1.0
+Upper Egypt::EgNaqa1,-3700,0,0.004497839526117264,seven_inputs_fixed_c1,1.0
+Upper Egypt::EgNaqa2,-3500,0,0.0019636416639596936,seven_inputs_fixed_c1,1.0
+Upper Egypt::EgPtol2,-200,1,0.6488565788236852,seven_inputs_fixed_c1,1.0
+Upper Egypt::EgThebL,-1000,0,0.29031131773204244,seven_inputs_fixed_c1,1.0
+Upper Egypt::TnFatim,1000,1,0.8361715766613115,seven_inputs_fixed_c1,1.0
+Valley of Oaxaca::MxAlb1E,-500,0,0.0006805223724499621,seven_inputs_fixed_c1,1.0
+Big Island Hawaii::Hawaii2,1200,0,0.00015632673972498846,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Big Island Hawaii::Hawaii2,1300,0,1.2526444216136855e-05,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Big Island Hawaii::Hawaii2,1400,0,2.469704413461209e-05,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Big Island Hawaii::Hawaii2,1500,0,1.4867818243312004e-05,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Cambodian Basin::KhAngkC,1100,0,0.43905917853854065,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Cambodian Basin::KhAngkE,900,0,0.3863193674785853,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Cambodian Basin::KhAngkL,1300,0,0.33785584246630496,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Central Java::IdKedir,1100,0,0.02105825954954608,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Central Java::IdMedng,800,0,0.17645627085116108,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Crete::TrByzM3,1100,0,0.7658068823419444,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Cuzco::PeInca*,1400,0,0.04175396921495736,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Deccan::InSataL,-100,0,0.48000425730279417,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Deccan::InSataL,0,0,0.48509865178749006,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Deccan::InSataL,100,0,0.48730031857593586,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Deccan::InVijay,1400,0,0.3842684101608789,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Finger Lakes::UsIroqE,1600,0,0.0011391813589064987,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Galilee::IlYisrl,-1000,0,0.14541800074395336,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Galilee::IlYisrl,-900,0,0.001113559501953656,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Iceland::IsCommw,1000,0,0.008743942545982587,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Iceland::IsCommw,1100,0,0.00021340732086081113,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Kachi Plain::PkSind1,900,0,0.29046359899808627,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Kachi Plain::PkSind2,1400,0,0.25744546015570263,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Kansai::JpAsuka,600,0,0.4874751068471418,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Kansai::JpHeian,800,0,0.5494022269766945,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Kansai::JpHeian,900,0,0.5298251636606487,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Kansai::JpHeian,1000,0,0.5872886450869259,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Kansai::JpKamak,1200,0,0.40080401191561266,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Kansai::JpKofun,300,0,0.3566932534976108,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Kansai::JpKofun,400,0,0.3525071296139976,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Kansai::JpTokgw,1700,0,0.831596847842974,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Konya Plain::TrBrzMD,-1800,0,0.02715151874489401,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Konya Plain::TrByzM1,700,0,0.8419337241612477,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Konya Plain::TrByzM2,900,0,0.8649755116223065,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Konya Plain::TrERom*,400,0,0.8911548077681694,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Konya Plain::TrERom*,500,0,0.6559586084262243,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Konya Plain::TrHatNK,-1300,0,0.25997880646761723,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Konya Plain::TrRum**,1100,0,0.6312319703510434,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Latium::ItPapEM,1000,1,0.47896759783682796,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Latium::ItPapHM,1200,0,0.5059076269358413,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Latium::ItPapM2,1700,0,0.5386619528678899,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Latium::ItPapRn,1400,0,0.5023237618946996,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Latium::ItRav**,600,0,0.49653041547977567,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Latium::ItRomER,-500,0,0.40674017693107817,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Latium::ItRomER,-400,0,0.387662370800311,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Latium::ItRomPr,0,0,0.8769800633161873,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Latium::ItRomPr,100,0,0.8237648112394805,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Latium::ItRomRg,-700,0,0.2916095233762596,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Latium::ItStPet,800,0,0.499643347042849,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Lowland Andes::EcJivaE,1600,0,0.16032006361009662,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Middle Ganga::InGurjr,900,0,0.4371285902253061,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Middle Yellow River Valley::CnEHan*,100,1,0.5908082860386606,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Middle Yellow River Valley::CnErlit,-1800,0,0.2985731688638572,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Middle Yellow River Valley::CnMing*,1400,0,0.6042559334553148,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Middle Yellow River Valley::CnMing*,1500,0,0.6011110894943112,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Middle Yellow River Valley::CnNSong,1000,0,0.667898357930648,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Middle Yellow River Valley::CnNWei*,400,0,0.5239852884752069,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Middle Yellow River Valley::CnQingL,1800,0,0.6791237803675936,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Middle Yellow River Valley::CnTangL,800,0,0.6118990946181846,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Middle Yellow River Valley::CnWHan*,-200,0,0.6048190711638325,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Middle Yellow River Valley::CnWHan*,-100,0,0.6069596699155168,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Middle Yellow River Valley::CnWZhou,-1000,0,0.48925276209333235,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Niger Inland Delta::MlMali*,1300,0,0.4611844570975292,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+North Colombia::CoTairo,1100,0,0.22321192443974705,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+North Colombia::CoTairo,1400,0,0.2668000969088775,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Orkhon Valley::MnMongL,1400,0,0.40649346423414273,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Orkhon Valley::MnMongL,1500,0,0.40649346423414273,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Orkhon Valley::MnXngnE,-1400,0,0.22270286194509994,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Orkhon Valley::MnXngnE,-500,0,0.22270286194509994,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Paris Basin::FrCaptE,1000,0,0.40550149579837097,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Paris Basin::FrCaptL,1200,0,0.5176700568621208,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Paris Basin::FrHallB,-900,0,0.24965824389107047,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Paris Basin::FrTeneB,-300,0,0.293768057859055,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Sogdiana::AfKushn,100,0,0.5010120442936696,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Sogdiana::UzJanid,1600,0,0.4968873351904012,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Southern Mesopotamia::IqAbbs1,800,1,0.5579285133622904,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Southern Mesopotamia::IqAkkad,-2300,0,0.47818569057099114,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Southern Mesopotamia::IrPart2,100,0,0.5282611914007321,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Susiana::IrAchae,-500,0,0.6067378790952879,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Susiana::IrMElm2,-1400,0,0.41025726889386477,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Susiana::IrPart1,-100,0,0.5270750854145544,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Susiana::IrQajar,1800,0,0.5128803454121227,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Susiana::IrSasn1,300,0,0.504274058941926,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Susiana::IrSasn2,500,0,0.5469638488827958,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Susiana::IrSeleu,-300,1,0.45752995950087966,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Upper Egypt::EgDyn2*,-2900,0,0.060220016088474444,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Upper Egypt::EgDyn2*,-2800,0,0.06408198078349919,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Upper Egypt::EgMidKg,-2000,0,0.3473728360223174,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Upper Egypt::EgMidKg,-1900,0,0.36432779153256767,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Upper Egypt::EgNKRam,-1200,0,0.5149297903369692,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Upper Egypt::EgNKThu,-1500,0,0.5265302321714888,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Upper Egypt::EgNKThu,-1400,0,0.546376264055644,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Upper Egypt::EgNaqa1,-3800,0,0.00859321631934127,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Upper Egypt::EgNaqa1,-3700,0,3.1750341028846216e-07,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Upper Egypt::EgNaqa2,-3500,0,0.03548556786049533,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Upper Egypt::EgPtol2,-200,1,0.5724231878402349,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Upper Egypt::EgThebL,-1000,0,0.39543457528500425,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Upper Egypt::TnFatim,1000,1,0.720939824718577,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Valley of Oaxaca::MxAlb1E,-500,0,0.014888272738804826,full_inputs_tuned,"0.01,0.1,1.0,10.0"
+Big Island Hawaii::Hawaii2,1200,0,0.00013168529377309335,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Big Island Hawaii::Hawaii2,1300,0,0.00014870964608363634,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Big Island Hawaii::Hawaii2,1400,0,0.00020840681895362465,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Big Island Hawaii::Hawaii2,1500,0,0.00023804379535829852,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Cambodian Basin::KhAngkC,1100,0,0.4862825056640477,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Cambodian Basin::KhAngkE,900,0,0.3943763087349027,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Cambodian Basin::KhAngkL,1300,0,0.3360691808167561,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Central Java::IdKedir,1100,0,0.02240992133928374,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Central Java::IdMedng,800,0,0.3401674424391387,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Crete::TrByzM3,1100,0,0.6101634783957733,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Cuzco::PeInca*,1400,0,0.008580441698878486,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Deccan::InSataL,-100,0,0.43280860344420147,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Deccan::InSataL,0,0,0.43489280570799016,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Deccan::InSataL,100,0,0.43489280570799016,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Deccan::InVijay,1400,0,0.3031327762157055,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Finger Lakes::UsIroqE,1600,0,7.27973141179926e-05,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Galilee::IlYisrl,-1000,0,0.1459409190219783,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Galilee::IlYisrl,-900,0,0.18027588165315034,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Iceland::IsCommw,1000,0,0.0060802517059735895,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Iceland::IsCommw,1100,0,0.009486422487749764,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Kachi Plain::PkSind1,900,0,0.439687424062566,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Kachi Plain::PkSind2,1400,0,0.4279146436291845,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Kansai::JpAsuka,600,0,0.4853291240842348,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Kansai::JpHeian,800,0,0.4859470774718506,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Kansai::JpHeian,900,0,0.504072905886408,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Kansai::JpHeian,1000,0,0.5136028832332774,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Kansai::JpKamak,1200,0,0.4079760242834684,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Kansai::JpKofun,300,0,0.013610532475026728,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Kansai::JpKofun,400,0,0.0344430651213722,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Kansai::JpTokgw,1700,0,0.8187906705869001,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Konya Plain::TrBrzMD,-1800,0,0.0317137734459865,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Konya Plain::TrByzM1,700,0,0.8286986103875398,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Konya Plain::TrByzM2,900,0,0.8528411673080909,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Konya Plain::TrERom*,400,0,0.8857784569027312,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Konya Plain::TrERom*,500,0,0.8804008869047382,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Konya Plain::TrHatNK,-1300,0,0.26946665628950656,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Konya Plain::TrRum**,1100,0,0.6444295833799618,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Latium::ItPapEM,1000,1,0.4768386894482964,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Latium::ItPapHM,1200,0,0.5035797065651028,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Latium::ItPapM2,1700,0,0.5368092912122363,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Latium::ItPapRn,1400,0,0.4999884124988451,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Latium::ItRav**,600,0,0.49418171931008853,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Latium::ItRomER,-500,0,0.40364972088599865,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Latium::ItRomER,-400,0,0.4113394240693875,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Latium::ItRomPr,0,0,0.8560505580376055,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Latium::ItRomPr,100,0,0.856245125961877,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Latium::ItRomRg,-700,0,0.2876093114423077,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Latium::ItStPet,800,0,0.49731643057112357,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Lowland Andes::EcJivaE,1600,0,0.15621455416403454,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Middle Ganga::InGurjr,900,0,0.43422323788941536,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Middle Yellow River Valley::CnEHan*,100,1,0.5898122739485736,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Middle Yellow River Valley::CnErlit,-1800,0,0.2946541953170264,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Middle Yellow River Valley::CnMing*,1400,0,0.6034776699326311,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Middle Yellow River Valley::CnMing*,1500,0,0.613535985644472,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Middle Yellow River Valley::CnNSong,1000,0,0.6675925989907386,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Middle Yellow River Valley::CnNWei*,400,0,0.5220053356791388,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Middle Yellow River Valley::CnQingL,1800,0,0.6789358359683142,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Middle Yellow River Valley::CnTangL,800,0,0.6111019311163685,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Middle Yellow River Valley::CnWHan*,-200,0,0.6038822227093547,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Middle Yellow River Valley::CnWHan*,-100,0,0.6038822227093547,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Middle Yellow River Valley::CnWZhou,-1000,0,0.48703988622624567,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Niger Inland Delta::MlMali*,1300,0,0.45866648870759374,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+North Colombia::CoTairo,1100,0,0.21942149413936315,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+North Colombia::CoTairo,1400,0,0.26312096638851434,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Orkhon Valley::MnMongL,1400,0,0.21175332370531083,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Orkhon Valley::MnMongL,1500,0,0.21175332370531083,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Orkhon Valley::MnXngnE,-1400,0,0.21826957720632556,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Orkhon Valley::MnXngnE,-500,0,0.21826957720632556,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Paris Basin::FrCaptE,1000,0,0.40233461961472355,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Paris Basin::FrCaptL,1200,0,0.5158188005595816,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Paris Basin::FrHallB,-900,0,0.2460458873125603,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Paris Basin::FrTeneB,-300,0,0.2898127145887049,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Sogdiana::AfKushn,100,0,0.49875814434876714,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Sogdiana::UzJanid,1600,0,0.49460842169854374,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Southern Mesopotamia::IqAbbs1,800,1,0.2567079957797266,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Southern Mesopotamia::IqAkkad,-2300,0,0.4758505834262209,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Southern Mesopotamia::IrPart2,100,0,0.5263821451434745,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Susiana::IrAchae,-500,0,0.855297408746002,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Susiana::IrMElm2,-1400,0,0.40735037244760136,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Susiana::IrPart1,-100,0,0.4207352477353531,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Susiana::IrQajar,1800,0,0.510941682895825,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Susiana::IrSasn1,300,0,0.5021332408307052,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Susiana::IrSasn2,500,0,0.5452852277995998,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Susiana::IrSeleu,-300,1,0.45364638611964336,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Upper Egypt::EgDyn2*,-2900,0,0.059301874268594484,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Upper Egypt::EgDyn2*,-2800,0,0.059301874268594484,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Upper Egypt::EgMidKg,-2000,0,0.3463155300622457,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Upper Egypt::EgMidKg,-1900,0,0.3463155300622457,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Upper Egypt::EgNKRam,-1200,0,0.5017833836045189,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Upper Egypt::EgNKThu,-1500,0,0.5197988166710937,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Upper Egypt::EgNKThu,-1400,0,0.5197988166710937,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Upper Egypt::EgNaqa1,-3800,0,0.00801964654797669,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Upper Egypt::EgNaqa1,-3700,0,0.004497839526117264,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Upper Egypt::EgNaqa2,-3500,0,0.033126430496377667,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Upper Egypt::EgPtol2,-200,1,0.5711216772443377,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Upper Egypt::EgThebL,-1000,0,0.3899054083850901,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Upper Egypt::TnFatim,1000,1,0.7191691776512565,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
+Valley of Oaxaca::MxAlb1E,-500,0,0.013795405298874701,seven_inputs_tuned,"0.01,0.1,1.0,10.0"
